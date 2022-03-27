@@ -1,6 +1,6 @@
 ## Azure Fundamentals Resources (AZ-900)
 
-![Badge](https://user-images.githubusercontent.com/88612799/160280150-fae2a6f3-0de4-4290-b3e5-f1482378d78b.png
+![Badge](https://user-images.githubusercontent.com/88612799/160280150-fae2a6f3-0de4-4290-b3e5-f1482378d78b.png)
 
 Webpages:
 
