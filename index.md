@@ -1,42 +1,20 @@
-## Welcome to GitHub Pages
+## Azure Fundamentals Resources (AZ-900)
 
-You can use the [editor on GitHub](https://github.com/Naga258/Naga258/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Webpages:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+https://k21academy.com/microsoft-azure/az-900/az-900-microsoft-azure-certification-fundamental-exam-everything-you-must-know/
 
-### Markdown
+https://marczak.io/az-900/#ep01
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+https://www.azureguru.org/az-900-azure-fundamentals-guide/
 
-```markdown
-Syntax highlighted code block
+https://t-guider.com/index.php/category/azure/
 
-# Header 1
-## Header 2
-### Header 3
 
-*/ This is Nagababu Thota first web page */
+Vedios: 
 
-- Bulleted
-- List
+https://timwinfo-my.sharepoint.com/:x:/g/personal/tim_timw_info/EVrlKIID28lMoiUBhetR2n4BXM9qcbCchmLfQx_Rc5tuQA?e=cg7Rta&activeCell=%27AZ900%27!A1
 
-1. Numbered
-2. List
+https://www.udemy.com/course/az-900-azure-tutorial/learn/lecture/19479106?start=0#content
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-##Subhead
-Add content here
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Naga258/Naga258/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
