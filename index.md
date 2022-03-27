@@ -1,6 +1,6 @@
 ## Azure Fundamentals Resources (AZ-900)
 
-![Badge](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.labeveryday.com%2Fpost%2Fhow-pass-the-az-900-exam&psig=AOvVaw2EoXi-6SV2s_U3hi_zqblC&ust=1648466671858000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPiEhIaX5vYCFQAAAAAdAAAAABAQ)
+![Badge](https://user-images.githubusercontent.com/88612799/160280150-fae2a6f3-0de4-4290-b3e5-f1482378d78b.png
 
 Webpages:
 
