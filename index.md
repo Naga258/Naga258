@@ -1,5 +1,7 @@
 ## Azure Fundamentals Resources (AZ-900)
 
+![Badge](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.labeveryday.com%2Fpost%2Fhow-pass-the-az-900-exam&psig=AOvVaw2EoXi-6SV2s_U3hi_zqblC&ust=1648466671858000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPiEhIaX5vYCFQAAAAAdAAAAABAQ)
+
 Webpages:
 
 [k21academy](https://k21academy.com/microsoft-azure/az-900/az-900-microsoft-azure-certification-fundamental-exam-everything-you-must-know/)
