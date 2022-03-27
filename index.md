@@ -4,6 +4,8 @@
 
 Webpages:
 
+[AzureDoc](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/)
+
 [k21academy](https://k21academy.com/microsoft-azure/az-900/az-900-microsoft-azure-certification-fundamental-exam-everything-you-must-know/)
 
 [marczak](https://marczak.io/az-900/#ep01)
